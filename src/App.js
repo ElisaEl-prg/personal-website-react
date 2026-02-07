@@ -23,7 +23,7 @@ function App() {
     <div>
       {showPopup && (
         <PopupMessage 
-          message="Përshëndetje! Ky website u krijua me React!"
+          message="Hello! This website is made with React!"
           onClose={handleClosePopup}
         />
       )}

@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ElisaEl-prg.github.io/PersonalWebsite",
-  "name": "personal",
+  "name": "personal-websitenpm run build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
